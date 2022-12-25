@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "*.tcc": "cpp",
+        "cerrno": "cpp",
+        "random": "cpp",
+        "limits": "cpp",
+        "numbers": "cpp",
+        "system_error": "cpp"
+    }
+}
